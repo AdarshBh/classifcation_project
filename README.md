@@ -8,7 +8,7 @@ This project aims to classify mental health statements into various mental healt
 
 ## 📁 Dataset
 
-- **File**: `Combined Data.csv`
+- **File**: `Mental_health_dataset.csv`
 - **Columns**:
   - `statement`: The textual input.
   - `status`: The label indicating the mental health condition.
